@@ -1,4 +1,4 @@
-<h1><b>💱 Conversor de Moedas — Desafio Oracle ONE | Alura </b></h1>
+<h1><b>Conversor de Moedas — Desafio Oracle ONE | Alura </b></h1>
 <p>Este projeto foi desenvolvido como parte do desafio proposto pela Alura no programa Oracle Next Education (ONE).</p>
 <p>O objetivo do desafio era criar uma aplicação capaz de consumir a API pública ExchangeRate-API, realizando requisições específicas e manipulando as respostas JSON para apresentar resultados de forma clara e organizada.</p>
 <p>Nessa aplicação você pode escolher entre seis opções de conversão já determinadas, ou escolher uma opção personalizada.</p>
